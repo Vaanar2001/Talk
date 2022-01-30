@@ -1,0 +1,11 @@
+.stories_avatar{
+  align-items: center;
+  margin-top: 5px;
+  margin-left: 3px;
+  border-left: 5px;
+  border: 2px solid black;
+}
+h3{
+  padding-left: 5px;
+  /* margin-left: 10px solid black; */
+}
